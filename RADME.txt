@@ -3,3 +3,5 @@
 how to commit file in local drive example
 
 file modified to check status
+
+one more modification using command git commit -a
