@@ -1,3 +1,5 @@
 # this demo of git repository
 
 how to commit file in local drive example
+
+file modified to check status
